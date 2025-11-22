@@ -3,12 +3,14 @@
     "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/huntgrenade.png",
     "name": "Thunder Flash I",
     "grade": "Rare",
+    "modification": true,
     "description": "Sebuah granat spesial yang dapat melontarkan proyektil."
   },
   "1": {
     "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/huntgrenade.png",
     "name": "Thunder Flash II",
     "grade": "Unique",
+    "modification": true,
     "part": true,
     "description": "Sebuah granat spesial yang dapat melontarkan proyektil, dengan performa yang ditingkatkan dari Thunder Flash I. Projektil secara otomatis mengenai musuh dalam jarak tertentu."
   },
@@ -16,6 +18,7 @@
     "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/huntgrenade.png",
     "name": "Thunder Flash III",
     "grade": "Unique",
+    "modification": true,
     "part": true,
     "description": "Sebuah granat spesial yang dapat melontarkan proyektil, dengan performa yang ditingkatkan dari Thunder Flash II. Projektil secara otomatis mengenai musuh dalam jarak tertentu."
   },
@@ -23,18 +26,21 @@
     "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/huntgrenade.png",
     "name": "Thunder Flash IV",
     "grade": "Transcendence",
+    "modification": true,
     "description": "Sebuah granat spesial yang dapat melontarkan proyektil dan dilengkapi dengan fungsi penglihatan canggih, dengan performa yang ditingkatkan dari Thunder Flash III. Projektil secara otomatis mengenai musuh dalam jarak tertentu. Melontarkan granat khusus yang dapat menembus dinding, dan saat charge penuh, dapat melihat musuh dalam radius tertentu disekitar."
   },
   "4": {
     "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/huntgrenade.png",
     "name": "Thunder Flash V",
     "grade": "Transcendence",
+    "modification": true,
     "description": "Sebuah granat spesial yang dapat melontarkan proyektil dan dilengkapi dengan fungsi penglihatan canggih, dengan performa yang ditingkatkan dari Thunder Flash IV. Projektil secara otomatis mengenai musuh dalam jarak tertentu. Melontarkan granat khusus yang dapat menembus dinding, dan saat charge penuh, dapat melihat musuh dalam radius tertentu disekitar."
   },
   "5": {
     "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/huntgrenade6.png",
     "name": "Thunder Flash VI",
     "grade": "Legendary",
+    "modification": true,
     "description": "Sebuah granat spesial yang dapat melontarkan proyektil dan dilengkapi dengan fungsi penglihatan canggih, dengan performa yang ditingkatkan dari Thunder Flash V. Projektil secara otomatis mengenai musuh dalam jarak tertentu. Melontarkan granat khusus yang dapat menembus dinding, dan saat charge penuh, dapat melihat musuh dalam radius tertentu disekitar. "
   },
   "6": {
