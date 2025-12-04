@@ -21,12 +21,12 @@
     "name": "Black Dragon Guard",
     "description": "Medal yang diperoleh setelah memperoleh Electron-VII, Yixuan, Yixuan Victory Spray, dan Yixuan Defeat Spray.",
     "honor": 0,
-    "image": "./resource/img/buffclass25s5title_l.png"
+    "image": "/res/img/_temp/chn/buffclass25s5title_l.png"
   },
   "4": {
     "name": "17th Anniversary CSOL",
     "description": "Medal yang diperoleh setelah berpartisipasi pada event web selama event 17th Anniversary CSOL.",
     "honor": 0,
-    "image": "./resource/img/event_17th_l.png"
+    "image": "/res/img/_temp/chn/event_17th_l.png"
   }
 }
