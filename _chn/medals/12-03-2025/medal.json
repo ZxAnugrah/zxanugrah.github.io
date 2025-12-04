@@ -1,0 +1,32 @@
+{
+  "0": {
+    "name": "Restorer",
+    "description": "Medal yang diperoleh setelah menyelesaikan Request Mission dari Gracia dan Abia.",
+    "honor": 10,
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252746"
+  },
+  "1": {
+    "name": "Scout",
+    "description": "Medal yang diperoleh setelah menyelesaikan [Recon] Request Mission reguler.",
+    "honor": 0,
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252751"
+  },
+  "2": {
+    "name": "Power Up",
+    "description": "Medal yang diperoleh setelah bermain mode Zombie Hero dengan Skill Perk.",
+    "honor": 0,
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252752"
+  },
+  "3": {
+    "name": "Black Dragon Guard",
+    "description": "Medal yang diperoleh setelah memperoleh Electron-VII, Yixuan, Yixuan Victory Spray, dan Yixuan Defeat Spray.",
+    "honor": 0,
+    "image": "./resource/img/buffclass25s5title_l.png"
+  },
+  "4": {
+    "name": "17th Anniversary CSOL",
+    "description": "Medal yang diperoleh setelah berpartisipasi pada event web selama event 17th Anniversary CSOL.",
+    "honor": 0,
+    "image": "./resource/img/event_17th_l.png"
+  }
+}

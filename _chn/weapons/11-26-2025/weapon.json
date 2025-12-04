@@ -1,0 +1,33 @@
+{
+  "0": {
+    "image": "./resource/img/lightningmg36.png",
+    "name": "Electron-VII",
+    "grade": "Unique",
+    "part": true,
+    "description": "Sebuah machine gun yang menggunakan 120 peluru energi. Memiliki fitur spesial yang dapat kamu gunakan saat menembak, dapat digunakan secara langsung untuk memunculkan energi listrik meluncurkan bola petir, menciptakan badai petir area luas di lokasi tumbukan atau charge untuk meluncurkan energi listrik tambahan di sepanjang jalur yang diarahkan."
+  },
+  "1": {
+    "image": "./resource/img/speargunex17th.png",
+    "name": "Hyper Gaebolg Black Dragon",
+    "grade": "Transcendence",
+    "description": "Menggabungkan elemen teknologi mutakhir yang terbongkar, serangan dasar Hyper Gaebolg memiliki kemampuan tinggi dalam mode Zombie, dan dapat di-charge untuk memberikan damage yang signifikan. Dibuat spesial untuk memperingati 17 Tahun Counter-Strike Online China."
+  },
+  "2": {
+    "image": "./resource/img/swordbombard17th.png",
+    "name": "Hauteclere Black Dragon",
+    "grade": "Transcendence",
+    "description": "Sebuah pedang yang terinspirasi dari besi, emas, dan kristal. Memiliki special feature Blade Tempest, yang membuat sebuah portal dan memunculkan serangan pedang ke arah depan. Dibuat spesial untuk memperingati 17 Tahun Counter-Strike Online China."
+  },
+  "3": {
+    "image": "./resource/img/mgsm17th.png",
+    "name": "Devastator Black Dragon",
+    "grade": "Transcendence",
+    "description": "Devastator Black Dragon adalah sebuah Machine Gun yang memiliki 350 peluru dengan kaliber .50 BMG. Memiliki akurasi yang stabil dan kecepatan tembakan yang lebih baik ditempatkan di medan pertempuran. Pelurunya dapat menimbulkan efek burning saat ditembakkan ke musuh. Memiliki 2 mode normal dan missile launch. Dapat secara berkala meluncurkan misil yang dapat menembus tembok dan mendorong musuh. Dibuat spesial untuk memperingati 17 Tahun Counter-Strike Online China."
+  },
+  "4": {
+    "image": "./resource/img/dvhammer17th.png",
+    "name": "Demolition Hammer Black Dragon",
+    "grade": "Transcendence",
+    "description": "Sebuah senjata melee yang dibuat dengan teknologi dari Aegis Institute. Merupakan palu besar yang harus dipegang dengan kedua tangan dan sangat berat. Saat gauge telah terisi, Demolition Hammer mengeluarkan pukulan yang sangat kuat kebawah, menanamkan sebuah baja ke tanah. Dibuat spesial untuk memperingati 17 Tahun Counter-Strike Online China."
+  }
+}
