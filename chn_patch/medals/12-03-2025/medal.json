@@ -20,7 +20,7 @@
   "3": {
     "name": "Black Dragon Guard",
     "description": "Medal yang diperoleh setelah memperoleh Electron-VII, Yixuan, Yixuan Victory Spray, dan Yixuan Defeat Spray.",
-    "honor": 0,
+    "honor": 10,
     "image": "/res/img/_temp/chn/buffclass25s5title_l.png"
   },
   "4": {
