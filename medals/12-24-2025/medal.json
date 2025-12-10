@@ -27,7 +27,7 @@
     "name": "Old Timer",
     "description": "Medal yang diperoleh setelah bermain 500 jam pada mode Zombie Scenario.",
     "honor": 10,
-    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252838"
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252840"
   },
   "5": {
     "name": "It's me, Solo",
@@ -39,12 +39,12 @@
     "name": "Get out of the way",
     "description": "Medal yang diperoleh setelah mengeliminasi 500 zombie pada map Pursuit: Hidden Truth.",
     "honor": 0,
-    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252838"
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252841"
   },
   "7": {
     "name": "Hug Me",
     "description": "Medal yang diperoleh setelah menginfeksi 10 human pada mode Zombie Hero Classic\n(Tidak termasuk BOT).",
     "honor": 0,
-    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252838"
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252842"
   }
 }
