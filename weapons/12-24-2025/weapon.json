@@ -4,6 +4,7 @@
     "name": "M79 Shawed Off Blank",
     "grade": "Rare",
     "enhance": true,
+    "part": true,
     "description": "-."
   }
 }
