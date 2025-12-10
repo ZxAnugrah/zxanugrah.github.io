@@ -1,0 +1,50 @@
+{
+  "0": {
+    "name": "Fully Equipped",
+    "description": "Medal yang diperoleh setelah menyelesaikan Zombie Scenario 1000 kali dengan Add-Ons\n(Terhitung setelah round selesai).",
+    "honor": 10,
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252835"
+  },
+  "1": {
+    "name": "The Devil's Whisper",
+    "description": "Medal yang diperoleh setelah menyelesaikan Zombie Scenario 100 kali pada difficulty Sangat Sulit.",
+    "honor": 10,
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252836"
+  },
+  "2": {
+    "name": "Penniless",
+    "description": "Medal yang diperoleh setelah menyelesaikan Zombie Scenario tanpa menggunakan Add-Ons pada difficulty Sulit atau diatasnya.",
+    "honor": 10,
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252838"
+  },
+  "3": {
+    "name": "Settlers",
+    "description": "Medal yang diperoleh setelah bermain 200 jam pada mode Zombie Scenario.",
+    "honor": 10,
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252839"
+  },
+  "4": {
+    "name": "Old Timer",
+    "description": "Medal yang diperoleh setelah bermain 500 jam pada mode Zombie Scenario.",
+    "honor": 10,
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252838"
+  },
+  "5": {
+    "name": "It's me, Solo",
+    "description": "Medal yang diperoleh setelah bermain lebih dari 1 jam selama Natal.",
+    "honor": 5,
+    "image": "https://static.wikia.nocookie.net/cso/images/b/b3/Solocompany.png"
+  },
+  "6": {
+    "name": "Get out of the way",
+    "description": "Medal yang diperoleh setelah mengeliminasi 500 zombie pada map Pursuit: Hidden Truth.",
+    "honor": 0,
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252838"
+  },
+  "7": {
+    "name": "Hug Me",
+    "description": "Medal yang diperoleh setelah menginfeksi 10 human pada mode Zombie Hero Classic\n(Tidak termasuk BOT).",
+    "honor": 0,
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252838"
+  }
+}
