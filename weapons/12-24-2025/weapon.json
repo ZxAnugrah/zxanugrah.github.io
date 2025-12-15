@@ -1,10 +1,10 @@
 {
   "0": {
-    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/m79b.png",
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/m79w.png",
     "name": "M79 Shawed Off Blank",
     "grade": "Rare",
     "enhance": true,
     "part": true,
-    "description": "-."
+    "description": "M79 Saw Off Blank masuk ke dalam slot [Pistol].\n\nIni adalah versi lebih baik dari Charlie killer grenade launcher yang digunakan saat Vietnam War. Senjata ini memiliki peningkatan pergerakan dengan gun barrel dan plate sawed off. Dengan itu, memungkinkan untuk digunakan sebagai senjata secondary.\nDibandingkan dengan versi original M79 Saw Off, jumlah peluru meningkat, tetapi jarak, radius ledakan, recoil, weight, dan rate of fire telah dikurangi.\nApabila meningkatkan damage, rate of fire (range) meningkat sembari dengan damage.\nTerdapat fitur tambahan di mana radius ledakan meningkat apabila meningkatkan accuracy."
   }
 }
