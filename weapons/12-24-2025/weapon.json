@@ -6,5 +6,19 @@
     "enhance": true,
     "part": true,
     "description": "M79 Saw Off Blank masuk ke dalam slot [Pistol].\n\nIni adalah versi lebih baik dari Charlie killer grenade launcher yang digunakan saat Vietnam War. Senjata ini memiliki peningkatan pergerakan dengan gun barrel dan plate sawed off. Dengan itu, memungkinkan untuk digunakan sebagai senjata secondary.\nDibandingkan dengan versi original M79 Saw Off, jumlah peluru meningkat, tetapi jarak, radius ledakan, recoil, weight, dan rate of fire telah dikurangi.\nApabila meningkatkan damage, rate of fire (range) meningkat sembari dengan damage.\nTerdapat fitur tambahan di mana radius ledakan meningkat apabila meningkatkan accuracy."
+  },
+  "1": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/bloodhunter.png",
+    "name": "Desert Eagle Crimson Hunter",
+    "grade": "Transcendence",
+    "zb3classic": true,
+    "description": "[ZHC] Desert Eagle Crimson Hunter merupakan sebuah Handgun yang mempunyai 30 peluru berkaliber .45 ACP, senjata special ini dilengkapi dengan sebuah blood grenade. dimana setiap tembakan yang terkena lawan akan mengumpulkan darah kedalam blood grenade, ketika digunakan grenade akan memberikan damage dan knockback yang sangat besar kepada zombie."
+  },
+  "2": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/buffsg552.png",
+    "name": "SG552 Lycanthrope",
+    "grade": "Transcendence",
+    "zb3classic": true,
+    "description": "[ZHC] SG552 Lycanthrope adalah sebuah assault rifle Special yang memiliki 50 peluru berkaliber .50BMG yang dapat memberikan damage sangat besar dan mematikan kepada zombie, Selain itu senjata ini memiliki scope yang dapat digunakan dan akan memberikan tembakan yang lebih kuat dan akurat."
   }
 }
