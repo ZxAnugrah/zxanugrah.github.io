@@ -1,12 +1,12 @@
 {
   "0": {
-    "name": "Fully Equipped",
+    "name": "Full Combat Gear",
     "description": "Medal yang diperoleh setelah menyelesaikan Zombie Scenario 1000 kali dengan Add-Ons\n(Terhitung setelah round selesai).",
     "honor": 10,
     "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252835"
   },
   "1": {
-    "name": "The Devil's Whisper",
+    "name": "Whisper of the Devil",
     "description": "Medal yang diperoleh setelah menyelesaikan Zombie Scenario 100 kali pada difficulty Sangat Sulit atau diatasnya.",
     "honor": 10,
     "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252836"
@@ -18,25 +18,25 @@
     "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252838"
   },
   "3": {
-    "name": "Settlers",
+    "name": "Settler",
     "description": "Medal yang diperoleh setelah bermain 200 jam pada mode Zombie Scenario.",
     "honor": 10,
     "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252839"
   },
   "4": {
-    "name": "Old Timer",
+    "name": "Old-Timer",
     "description": "Medal yang diperoleh setelah bermain 500 jam pada mode Zombie Scenario.",
     "honor": 10,
     "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252840"
   },
   "5": {
-    "name": "It's me, Solo",
+    "name": "Forever Alone",
     "description": "Medal yang diperoleh setelah bermain lebih dari 1 jam selama Natal.",
     "honor": 5,
     "image": "https://static.wikia.nocookie.net/cso/images/b/b3/Solocompany.png"
   },
   "6": {
-    "name": "Get out of the way",
+    "name": "Get Out of My Way",
     "description": "Medal yang diperoleh setelah mengeliminasi 500 zombie pada map Pursuit: Hidden Truth.",
     "honor": 0,
     "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801252841"
