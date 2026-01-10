@@ -1,0 +1,46 @@
+{
+  "0": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/sfboomerang.png",
+    "name": "Ascalon I",
+    "grade": "Rare",
+    "modification": true,
+    "description": "Sebuah senjata jarak dekat yang dibuat oleh teknologi dari Aegis Research Institute."
+  },
+  "1": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/sfboomerang.png",
+    "name": "Ascalon II",
+    "grade": "Unique",
+    "modification": true,
+    "part": true,
+    "description": "Sebuah senjata jarak dekat yang dibuat oleh teknologi dari Aegis Research Institute, dengan performa yang ditingkatkan dari Ascalon I. Menyerang dengan memutar senjata berbentuk boomerang. Saat gauge terisi, senjata akan menembakkan proyektil berbentuk boomerang, yang di mana proyektil akan meledak tanpa kembali."
+  },
+  "2": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/sfboomerang.png",
+    "name": "Ascalon III",
+    "grade": "Unique",
+    "modification": true,
+    "part": true,
+    "description": "Sebuah senjata jarak dekat yang dibuat oleh teknologi dari Aegis Research Institute, dengan performa yang ditingkatkan dari Ascalon II. Menyerang dengan memutar senjata berbentuk boomerang. Saat gauge terisi, senjata akan menembakkan proyektil berbentuk boomerang, yang dapat ditangkap dan dilempar lagi. Saat sejumlah serangan tercapai, proyektil akan meledak tanpa kembali."
+  },
+  "3": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/sfboomerang.png",
+    "name": "Ascalon IV",
+    "grade": "Transcendence",
+    "modification": true,
+    "description": "Sebuah senjata jarak dekat yang dibuat oleh teknologi dari Aegis Research Institute, dengan performa yang ditingkatkan dari Ascalon III. Menyerang dengan memutar senjata berbentuk boomerang. Saat gauge terisi, senjata akan menembakkan proyektil berbentuk boomerang, yang dapat ditangkap dan dilempar lagi. Saat sejumlah serangan tercapai, proyektil akan meledak tanpa kembali."
+  },
+  "4": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/sfboomerang.png",
+    "name": "Ascalon V",
+    "grade": "Transcendence",
+    "modification": true,
+    "description": "Sebuah senjata jarak dekat yang dibuat oleh teknologi dari Aegis Research Institute, dengan performa yang ditingkatkan dari Ascalon IV. Menyerang dengan memutar senjata berbentuk boomerang. Saat gauge terisi, senjata akan menembakkan proyektil berbentuk boomerang, yang dapat ditangkap dan dilempar lagi. Saat sejumlah serangan tercapai, proyektil akan meledak tanpa kembali."
+  },
+  "5": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/sfboomerang6.png",
+    "name": "Ascalon VI",
+    "grade": "Legendary",
+    "modification": true,
+    "description": "Sebuah senjata jarak dekat yang dibuat oleh teknologi dari Aegis Research Institute, dengan performa yang ditingkatkan dari Ascalon V. Menyerang dengan memutar senjata berbentuk boomerang. Saat gauge terisi, senjata akan menembakkan proyektil berbentuk boomerang, yang dapat ditangkap dan dilempar lagi. Saat sejumlah serangan tercapai, proyektil akan meledak tanpa kembali."
+  }
+}
