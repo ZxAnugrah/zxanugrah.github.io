@@ -42,5 +42,40 @@
     "grade": "Legendary",
     "modification": true,
     "description": "Sebuah senjata jarak dekat yang dibuat oleh teknologi dari Aegis Research Institute, dengan performa yang ditingkatkan dari Ascalon V. Menyerang dengan memutar senjata berbentuk boomerang. Saat gauge terisi, senjata akan menembakkan proyektil berbentuk boomerang, yang dapat ditangkap dan dilempar lagi. Saat sejumlah serangan tercapai, proyektil akan meledak tanpa kembali."
+  },
+  "6": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/jetgunzf.png",
+    "name": "Lightning Fury Silver Black",
+    "grade": "Transcendence",
+    "description": "Sebuah senjata khusus yang dapat meluncurkan serangan elektrik. Menyerang dengan serangan kejut yang kuat yang mengelilingi pengguna dengan ladang elektrik. Setelah beberapa tembakan diluncurkan, akan mengisi sebuah charge untuk menggunakan jetpack."
+  },
+  "7": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/magicknifezf.png",
+    "name": "Miracle Prism Sword Silver Black",
+    "grade": "Unique",
+    "part": true,
+    "description": "Pedang yang dijiwai oleh kekuatan magis. Charge untuk mendapatkan kekuatan Miracle Slash, sebuah serangan yang memotong menembus energi yang buruk."
+  },
+  "8": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/bpythonzf.png",
+    "name": "Battle Python Burgundy",
+    "grade": "Advanced",
+    "part": true,
+    "enhance": true,
+    "description": "Battle Python Burgundy merupakan sebuah senjata berjenis revolver yang menggunakan 6 peluru berjenis .357 Magnum, senjata ini memiliki kecepatan tembakan, daya rusak dan akurasi yang sangat baik, senjata ini lahir dari hasil pertempuran di medan perang."
+  },
+  "9": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/skullaxezhczf.png",
+    "name": "SKULL-9 Burgundy",
+    "grade": "Rare",
+    "zb3classic": true,
+    "description": "[ZHC] SKULL-9 Burgundy adalah senjata jarak dekat pertama dalam seri SKULL dan senjata itu terbuat dari bahan paduan khusus yang dikembangkan oleh pemerintah. Memiliki kekuatan penghancur, terutama untuk zombie."
+  },
+  "10": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/coindart.png",
+    "name": "",
+    "grade": "Transcendence",
+    "description": "",
+    "hidden": true
   }
 }
