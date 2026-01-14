@@ -76,7 +76,7 @@
     "name": "XM1014 Automatic Shotgun WINTER",
     "grade": "Advanced",
     "part": true,
-    "enhancement": true,
+    "enhance": true,
     "description": "Kapasitas 8 peluru, 12 gauge shotgun memiliki kecepatan menembak karena fungsi semi-automatic, dan memiliki kekuatan penetrasi yang sangat bagus untuk jarak dekat. Telah dimodifikasi dengan desain WINTER dan menambah kapasitas peluru sebanyak 1, tetapi kecepatan peluru yang berkurang dan penyebaran peluru semakin lebar. Kecepatan peluru dapat ditingkatkan dengan meningkatkan kecepatan reload dan kecepatan menembak. Menimbulkan efek slow pada musuh saat meningkatkan damage."
   },
   "11": {
@@ -84,7 +84,7 @@
     "name": "Nata Knife WINTER",
     "grade": "Advanced",
     "part": true,
-    "enhancement": true,
+    "enhance": true,
     "description": "Pisau bermata satu yang sangat indah ini dibentuk untuk meningkatkan jangkauan dan serangan. Telah dimodifikasi dengan desain WINTER, sehingga damage untuk membunuh musuh dikurangi, tetapi dapat ditingkatkan dengan enhancement. Efek slow yang singkat telah ditambahkan, dan jarak serangan meningkat signifikan. Di sisi lain, damage lebih rendah dari versi aslinya, dan kecepatan menyerang serta berat meningkat. Jarak serangan dapat ditingkatkan dengan meningkatkan akurasi. Kecepatan menyerang dapat ditingkatkan dengan meningkatkan kecepatan serangan, serta saat mengganti senjata. Menimbulkan efek slow pada musuh saat meningkatkan damage."
   },
   "12": {
