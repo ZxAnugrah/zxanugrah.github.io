@@ -9,6 +9,8 @@
     "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/beamgunle.png",
     "name": "Giga Break LE",
     "grade": "Epic",
+    "synthesis": true,
+    "synthesis_desc": "Diperoleh setelah memiliki Giga Break lebih dari 2 dan ditukarkan menjadi Giga Break LE.",
     "description": "Senjata yang dapat melepaskan kekuatan tak terbatas di bawah kendali. Namun, senjata ini tidak dapat dikendalikan sepenuhnya, sehingga hanya sejumlah kekuatan terbatas yang dapat digunakan. Serangan normal dapat beruntun melepaskan energi. Mengayunkan senjata dua kali berturut-turut menimbulkan Overflow-Alpha, serangan normal ditingkatkan selama beberapa waktu. Mengisi charge peluru spesial akan membuat Overflow-Beta, serangan normal ditingkatkan lebih lama. Selain itu, dalam Mode Zombie dan Mode Zombie Scenario, player dilindungi oleh Wingman."
   },
   "2": {
