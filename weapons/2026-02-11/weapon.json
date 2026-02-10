@@ -1,0 +1,27 @@
+{
+  "0": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/beamgun.png",
+    "name": "Giga Break",
+    "grade": "Epic",
+    "description": "Senjata yang dapat melepaskan kekuatan tak terbatas di bawah kendali. Namun, senjata ini tidak dapat dikendalikan sepenuhnya, sehingga hanya sejumlah kekuatan terbatas yang dapat digunakan. Serangan normal dapat beruntun melepaskan energi. Mengayunkan senjata dua kali berturut-turut menimbulkan Overflow-Alpha, serangan normal ditingkatkan selama beberapa waktu. Mengisi charge peluru spesial akan membuat Overflow-Beta, serangan normal ditingkatkan lebih lama. Selain itu, dalam Mode Zombie dan Mode Zombie Scenario, player dilindungi oleh Wingman."
+  },
+  "1": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/beamgunle.png",
+    "name": "Giga Break LE",
+    "grade": "Epic",
+    "description": "Senjata yang dapat melepaskan kekuatan tak terbatas di bawah kendali. Namun, senjata ini tidak dapat dikendalikan sepenuhnya, sehingga hanya sejumlah kekuatan terbatas yang dapat digunakan. Serangan normal dapat beruntun melepaskan energi. Mengayunkan senjata dua kali berturut-turut menimbulkan Overflow-Alpha, serangan normal ditingkatkan selama beberapa waktu. Mengisi charge peluru spesial akan membuat Overflow-Beta, serangan normal ditingkatkan lebih lama. Selain itu, dalam Mode Zombie dan Mode Zombie Scenario, player dilindungi oleh Wingman."
+  },
+  "2": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/whipflail.png",
+    "name": "Impulse Flail",
+    "grade": "Legendary",
+    "description": "Sebuah mace yang menggunakan rantai untuk memperluas jarak saat menyerang. Dibuat khusus untuk menyerang banyak musuh dengan menyerang area yang lebih luas. Bergantung pada situasi di medan perang, dapat digunakan sebagai serangan dahsyat dengan mengayunkannya, atau dapat digunakan untuk knockback musuh pada area yang luas dengan memicu damage ledakan."
+  },
+  "3": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/as50gs.png",
+    "name": "AS50 Gold Stallion",
+    "grade": "Unique",
+    "part": true,
+    "description": "AS50 Gold Stallion adalah semi-otomatis sniper rifle berkapasitas 5 peluru berkaliber .50 dengan kaliber tersebut membuatnya sangat tangguh dan memiliki power yang kuat. Direkomendasikan untuk memperhatikan setiap tembakan sehingga dapat mengontrol recoilnya. Kekuatannya semakin ditingkatkan oleh Gold Stallion."
+  }
+}

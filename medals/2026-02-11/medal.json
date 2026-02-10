@@ -1,0 +1,26 @@
+{
+  "0": {
+    "name": "Giga Break Happy New Year",
+    "description": "Medal yang diperoleh apabila memiliki medal Frost Viper Happy New Year dan senjata epic Giga Break.",
+    "honor": "???",
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801253329"
+  },
+  "1": {
+    "name": "Frost Viper Happy New Year",
+    "description": "Medal yang diperoleh apabila memiliki seluruh senjata seri Happy New Year.",
+    "honor": "???",
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801253330"
+  },
+  "2": {
+    "name": "Overclocking",
+    "description": "Medal yang diperoleh setelah memiliki Giga Break (Permanent) dan Giga Break Wings (Permanent).",
+    "honor": 10,
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801253331"
+  },
+  "3": {
+    "name": "기가!막힌",
+    "description": "Medal yang diperoleh setelah menembak jatuh 300 layang-layang.",
+    "honor": "???",
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801253344"
+  }
+}
