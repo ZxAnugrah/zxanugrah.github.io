@@ -8,7 +8,7 @@
   "1": {
     "name": "Frost Viper Happy New Year",
     "description": "Medal yang diperoleh apabila memiliki seluruh senjata seri Happy New Year.",
-    "honor": "???",
+    "honor": "10",
     "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801253330"
   },
   "2": {
@@ -18,9 +18,9 @@
     "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801253331"
   },
   "3": {
-    "name": "기가!막힌",
+    "name": "Giga Sting",
     "description": "Medal yang diperoleh setelah menembak jatuh 300 layang-layang.",
-    "honor": "???",
+    "honor": "10",
     "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801253344"
   }
 }
