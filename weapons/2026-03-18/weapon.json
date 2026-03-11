@@ -2,27 +2,27 @@
   "0": {
     "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/y26s1balrog9.png",
     "name": "BALROG-IX Techno",
-    "grade": "Rare",
+    "grade": "Advanced",
     "part": true,
     "description": "BALROG-IX Techno merupakan hasil dari penelitian Aegis Institute yang menghasilkan sebuah melee weapon terbaru. senjata ini menggunakan [Balrog Charging System], yang dapat memberikan pukulan yang sangat fatal kepada musuh, senjata yang sangat ditakuti oleh zombie."
   },
   "1": {
     "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/y26s1deagled.png",
     "name": "Dual Desert Eagle Techno",
-    "grade": "Unique",
+    "grade": "Rare",
     "description": "Pistol .50AE versi kustom dan dibawa pada kedua tangan, damage lebih kuat daripada sebuah assault rifle biasa."
   },
   "2": {
     "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/y26s1plasmagun.png",
     "name": "Plasma Gun Techno",
-    "grade": "Unique",
+    "grade": "Rare",
     "part": true,
     "description": "Plasma Gun Techno merupakan senjata berjenis Assault Rifle yang menggunakan energi Plasma sebagai pelurunya. Karena Kekuatan energinya yang sangat hebat senjata ini dapat menghancurkan segalanya."
   },
   "3": {
     "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/y26s1m32.png",
     "name": "M32 MGL Zombie Killer",
-    "grade": "Unique",
+    "grade": "Transcendence",
     "part": true,
     "description": "M32 yang dibuat oleh Kronos menggunakan 6 buah peluru energi untuk membunuh zombie dengan mudah. Untuk pertahanan diri, peluru spesial telah ditambahkan untuk menghalau zombie."
   },
