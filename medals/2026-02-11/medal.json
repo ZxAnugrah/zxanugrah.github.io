@@ -2,13 +2,13 @@
   "0": {
     "name": "Giga Break Happy New Year",
     "description": "Medal yang diperoleh apabila memiliki medal Frost Viper Happy New Year dan senjata epic Giga Break.",
-    "honor": "10",
+    "honor": 10,
     "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801253329"
   },
   "1": {
     "name": "Frost Viper Happy New Year",
     "description": "Medal yang diperoleh apabila memiliki seluruh senjata seri Happy New Year.",
-    "honor": "10",
+    "honor": 10,
     "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801253330"
   },
   "2": {
@@ -20,7 +20,7 @@
   "3": {
     "name": "Giga Sting",
     "description": "Medal yang diperoleh setelah menembak jatuh 300 layang-layang.",
-    "honor": "10",
+    "honor": 10,
     "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801253344"
   }
 }

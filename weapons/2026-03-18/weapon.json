@@ -41,28 +41,12 @@
     "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/swordbombard17th.png",
     "name": "Hauteclere Black Dragon",
     "grade": "Transcendence",
-    "description": "Sebuah pedang yang terinspirasi dari besi, emas, dan kristal. Memiliki special feature Blade Tempest, yang membuat sebuah portal dan memunculkan serangan pedang ke arah depan.",
-    "hidden": true
+    "description": "Sebuah pedang yang terinspirasi dari besi, emas, dan kristal. Memiliki special feature Blade Tempest, yang membuat sebuah portal dan memunculkan serangan pedang ke arah depan."
   },
   "7": {
     "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/mgsm17th.png",
     "name": "Devastator Black Dragon",
     "grade": "Transcendence",
-    "description": "Devastator Black Dragon adalah sebuah Machine Gun yang memiliki 350 peluru dengan kaliber .50 BMG. Memiliki akurasi yang stabil dan kecepatan tembakan yang lebih baik ditempatkan di medan pertempuran. Pelurunya dapat menimbulkan efek burning saat ditembakkan ke musuh. Memiliki 2 mode normal dan missile launch. Dapat secara berkala meluncurkan misil yang dapat menembus tembok dan mendorong musuh.",
-    "hidden": true
-  },
-  "8": {
-    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/dvhammer17th.png",
-    "name": "Demolition Hammer Black Dragon",
-    "grade": "Transcendence",
-    "description": "Sebuah senjata melee dengan desain Black Dragon yang dibuat dengan teknologi dari Aegis Institute. Merupakan palu besar yang harus dipegang dengan kedua tangan dan sangat berat. Saat gauge telah terisi, Demolition Hammer mengeluarkan pukulan yang sangat kuat kebawah, menanamkan sebuah baja ke tanah.",
-    "hidden": true
-  },
-  "9": {
-    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/speargunex17th.png",
-    "name": "Hyper Gaebolg Black Dragon",
-    "grade": "Transcendence",
-    "description": "Menggabungkan elemen teknologi mutakhir yang terbongkar, serangan dasar Hyper Gaebolg Black Dragon memiliki kemampuan tinggi dalam mode Zombie, dan dapat di-charge untuk memberikan damage yang signifikan.",
-    "hidden": true
+    "description": "Devastator Black Dragon adalah sebuah Machine Gun yang memiliki 350 peluru dengan kaliber .50 BMG. Memiliki akurasi yang stabil dan kecepatan tembakan yang lebih baik ditempatkan di medan pertempuran. Pelurunya dapat menimbulkan efek burning saat ditembakkan ke musuh. Memiliki 2 mode normal dan missile launch. Dapat secara berkala meluncurkan misil yang dapat menembus tembok dan mendorong musuh."
   }
 }
