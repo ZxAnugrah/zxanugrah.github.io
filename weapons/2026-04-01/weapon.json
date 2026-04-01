@@ -1,45 +1,14 @@
 {
   "0": {
-    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/dualuzib.png",
-    "name": "Dual UZI Blank",
-    "grade": "Advanced",
-    "description": "",
-    "enhance": true,
-    "part": true
-  },
-  "1": {
-    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/divinespearex.png",
-    "name": "Luminous Brionac",
-    "grade": "Epic",
-    "description": ""
-  },
-  "2": {
-    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/divinespearexle.png",
-    "name": "Luminous Brionac LE",
-    "grade": "Epic",
-    "description": "",
-    "synthesis": true,
-    "synthesis_desc": "Diperoleh setelah memiliki Luminous Brionac lebih dari 2 dan ditukarkan menjadi Luminous Brionac LE."
-  },
-  "3": {
     "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/dvhammer17th.png",
     "name": "Demolition Hammer Black Dragon",
     "grade": "Transcendence",
-    "description": "Sebuah senjata melee dengan desain Black Dragon yang dibuat dengan teknologi dari Aegis Institute. Merupakan palu besar yang harus dipegang dengan kedua tangan dan sangat berat. Saat gauge telah terisi, Demolition Hammer mengeluarkan pukulan yang sangat kuat kebawah, menanamkan sebuah baja ke tanah.",
-    "hidden": true
+    "description": "Sebuah senjata melee dengan desain Black Dragon yang dibuat dengan teknologi dari Aegis Institute. Merupakan palu besar yang harus dipegang dengan kedua tangan dan sangat berat. Saat gauge telah terisi, Demolition Hammer mengeluarkan pukulan yang sangat kuat kebawah, menanamkan sebuah baja ke tanah."
   },
-  "4": {
+  "2": {
     "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/speargunex17th.png",
     "name": "Hyper Gaebolg Black Dragon",
     "grade": "Transcendence",
-    "description": "Menggabungkan elemen teknologi mutakhir yang terbongkar, serangan dasar Hyper Gaebolg Black Dragon memiliki kemampuan tinggi dalam mode Zombie, dan dapat di-charge untuk memberikan damage yang signifikan.",
-    "hidden": true
-  },
-  "5": {
-    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/buffm249.png",
-    "name": "M249 Phoenix",
-    "grade": "Transcendence",
-    "zb3classic": true,
-    "description": ""
+    "description": "Menggabungkan elemen teknologi mutakhir yang terbongkar, serangan dasar Hyper Gaebolg Black Dragon memiliki kemampuan tinggi dalam mode Zombie, dan dapat di-charge untuk memberikan damage yang signifikan."
   }
 }
