@@ -1,9 +1,8 @@
 {
   "0": {
-    "image": "https://static.wikia.nocookie.net/cso/images/4/40/De_labs_cso.png",
+    "image": "https://static.wikia.nocookie.net/cso/images/d/dc/De_labs_cso.png/",
     "name": "Labs",
     "mode": "Normal | Zombie",
-    "location": "Laboratorium penelitian antivirus yang terletak di daerah pegunungan di pinggiran kota.",
-    "hidden": true
+    "location": "Laboratorium penelitian antivirus yang terletak di daerah pegunungan di pinggiran kota."
   }
 }
