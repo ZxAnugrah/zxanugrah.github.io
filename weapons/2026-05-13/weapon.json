@@ -1,0 +1,24 @@
+{
+  "0": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/backfliphg1.png",
+    "name": "Recoil Blitz T1",
+    "grade": "Unique",
+    "description": "Pistol otomatis yang dikembangkan oleh Aegis Labs yang menggunakan .44 Magnum dan peluru Incendiary. Saat menembakkan peluru Incendiary, memberikan damage area di sekitar pemain dan target. Menggunakan thermal energy yang terisi otomatis untuk langsung memperoleh magazine yang terisi sejumlah besar peluru Incendiary, memberikan damage, atau melompat ke arah berlawanan dari aim.",
+    "modification": true,
+    "part": true
+  },
+  "1": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/backfliphg1.png",
+    "name": "Recoil Blitz T2",
+    "grade": "Transcendence",
+    "description": "Pistol otomatis yang dikembangkan oleh Aegis Labs yang menggunakan .44 Magnum dan peluru Incendiary, lebih ditingkatkan dari Type 1. Saat menembakkan peluru Incendiary, memberikan damage area di sekitar pemain dan target. Menggunakan thermal energy yang terisi otomatis untuk langsung memperoleh magazine yang terisi sejumlah besar peluru Incendiary, memberikan damage, atau melompat ke arah berlawanan dari aim. Saat reload, mengeluarkan shockwave ke sekitar untuk mendorong musuh menjauh.",
+    "modification": true
+  },
+  "2": {
+    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/backfliphg1.png",
+    "name": "Recoil Blitz T3",
+    "grade": "Legendary",
+    "description": "Pistol otomatis yang dikembangkan oleh Aegis Labs yang menggunakan .44 Magnum dan peluru Incendiary, lebih ditingkatkan dari Type 2. Saat menembakkan peluru Incendiary, memberikan damage area di sekitar pemain dan target. Menggunakan thermal energy yang terisi otomatis untuk langsung memperoleh magazine yang terisi sejumlah besar peluru Incendiary, memberikan damage, atau melompat ke arah berlawanan dari aim. Saat reload, mengeluarkan shockwave ke sekitar untuk mendorong musuh menjauh.",
+    "modification": true
+  }
+}
