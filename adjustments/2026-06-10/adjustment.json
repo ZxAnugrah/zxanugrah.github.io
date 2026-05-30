@@ -1,0 +1,14 @@
+{
+  "1": {
+    "name": "Adjustment Buy Menu (In-Game)",
+    "description": "Penambahan fitur baru, Search Weapon. Kalian sekarang dapat mencari senjata dengan mudah dengan mengetik nama senjata.\n- Cara menggunakan: Klik 'Search Bar' di sisi kiri atas buymenu dalam game atau gunakan shortcut 'Ctrt+F'. Ketik nama senjata, lalu pilih senjata dengan 'MOUSE' atau 'ARROW'. Tekan 'ESC' atau klik tombol 'X' di sebelah kanan atas layar untuk menutup search bar."
+  },
+  "2": {
+    "name": "BOT Improvement",
+    "description": "- Mode: Zombie Hero, Zombie Z.\n- Detail: BOT pada mode Zombie telah ditingkatkan agar berperilaku berbeda setiap round tergantung pada progress round. Sebelumnya, BOT berjalan dengan struktur sederhana berdasarkan game, namun, pada penyesuaian ini, BOT dapat membaca situasi secara detail dan menambahkan pola perilaku baru.\n- Catatan: Penyesuaian ini berfokus pada pola perilaku BOT dan tidak bermaksud membuat BOT lebih pintar atau meningkatkan difficulty."
+  },
+  "3": {
+    "name": "Weapon Part Attach",
+    "description": "Membuka slot weapon part pada senjata:\n- AN94"
+  }
+}
