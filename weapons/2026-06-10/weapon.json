@@ -5,12 +5,5 @@
     "grade": "Unique",
     "description": "Senjata yang tergolong Jenis Sniper Riffle Misterius ini tidak diketahui pembuatnya dan sangatlah mudah digunakan dan juga mematikan, karena proyektil peluru yang berbentuk Bintang tersebut akan meledak ke segala arah saat mengenai sasaran.",
     "zb3classic": true
-  },
-  "1": {
-    "image": "https://sht-vod.dn.nexoncdn.co.kr/csonline/weapons/an94.png",
-    "name": "AN-94",
-    "grade": "Basic",
-    "part": true,
-    "adjustment": "Membuka slot weapon part."
   }
 }
