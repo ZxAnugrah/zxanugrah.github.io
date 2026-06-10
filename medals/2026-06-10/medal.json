@@ -1,8 +1,14 @@
 {
   "0": {
-    "name": "Charm Master",
-    "description": "Medal yang diperoleh setelah memiliki Vivian dan Vivian Exclusive Costume.",
+    "name": "Charming Sage",
+    "description": "Medal yang diperoleh setelah memiliki Vivian dan Sage Hand Bell.",
     "honor": 5,
     "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801254168"
+  },
+  "1": {
+    "name": "Charm Master",
+    "description": "Medal yang diperoleh setelah memiliki Vivian dan Vivian Exclusive Costume.",
+    "honor": "-",
+    "image": "//file.nexon.com/NxFile/Notice/Download/ImagePreviewer.aspx?oidFile=6940049224801254163"
   }
 }
